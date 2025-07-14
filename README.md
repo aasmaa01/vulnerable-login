@@ -13,3 +13,8 @@ The app is designed to:
 
 ---
 
+Other Simulation: 
+
+-[](https://github.com/aasmaa01/authsignlog)
+-[](https://github.com/aasmaa01/password-cracking-simulations)
+-[](https://github.com/aasmaa01/Login-Script-with-Lockout-System)
