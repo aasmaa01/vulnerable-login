@@ -15,6 +15,6 @@ The app is designed to:
 
 Other Simulation: 
 
--[](https://github.com/aasmaa01/authsignlog)
--[](https://github.com/aasmaa01/password-cracking-simulations)
--[](https://github.com/aasmaa01/Login-Script-with-Lockout-System)
+-[authsignlog ](https://github.com/aasmaa01/authsignlog)
+-[password cracking](https://github.com/aasmaa01/password-cracking-simulations)
+-[login script](https://github.com/aasmaa01/Login-Script-with-Lockout-System)
